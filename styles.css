@@ -17,7 +17,7 @@ header{
     padding-left: 5%;
     padding-right: 5%;
     background-color: black;
-    background:linear-gradient(rgba(76, 80, 88, 0.75),rgba(6, 8, 14, 0.75)), url(/Jett_1920x1080.jpg);
+    background:linear-gradient(rgba(76, 80, 88, 0.75),rgba(6, 8, 14, 0.75)), url(Jett_1920x1080.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
